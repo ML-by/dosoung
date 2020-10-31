@@ -48,7 +48,9 @@ form {
   margin-bottom: -10px;
   position: relative;
 }
-
+.box{
+  background-color: white;
+}
 .new-task input {
   box-sizing: border-box;
   padding: 10px 0;
