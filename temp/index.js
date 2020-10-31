@@ -43,14 +43,11 @@ function buildCalendar() {
         cell.innerHTML =
           i +
           "<br/>" +
-          "<br/>" +
-          "제목: " +
-          title +
-          "<br/>" +
+          "<h3>제목: " +
+          title +"</h3>"+
           "<br/>" +
           "장소: " +
           place +
-          "<br/>" +
           "<br/>" +
           "시간: " +
           time +
